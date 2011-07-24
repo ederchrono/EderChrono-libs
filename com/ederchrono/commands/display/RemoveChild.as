@@ -1,5 +1,6 @@
-﻿package commands.display {
-	import commands.Command;
+﻿package com.ederchrono.commands.display
+{
+	import com.ederchrono.commands.Command;
 	import flash.display.DisplayObject;
 	import flash.display.DisplayObjectContainer;
 	
@@ -7,7 +8,7 @@
 	public class RemoveChild extends Command {
 		
 		public var container:DisplayObjectContainer;
-		public var displayObject:DisplayObject
+		public var displayObject:DisplayObject;
 		
 		public function RemoveChild(container:DisplayObjectContainer, displayObject:DisplayObject) {
 			this.container = container;

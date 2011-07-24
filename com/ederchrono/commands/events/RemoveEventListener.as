@@ -1,5 +1,6 @@
-﻿package commands.events {
-	import commands.Command;
+﻿package com.ederchrono.commands.events
+{
+	import com.ederchrono.commands.Command;
 	import flash.events.IEventDispatcher;
 	
 	//this command encapsulates the removeEventListener() method

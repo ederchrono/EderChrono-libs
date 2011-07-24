@@ -1,5 +1,6 @@
-﻿package commands.utils {
-	import commands.Command;
+﻿package com.ederchrono.commands.utils
+{
+	import com.ederchrono.commands.Command;
 	
 	public class Wait extends Command {
 		

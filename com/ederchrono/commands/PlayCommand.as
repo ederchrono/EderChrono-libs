@@ -1,4 +1,5 @@
-﻿package commands {
+﻿package com.ederchrono.commands
+{
 	import flash.display.MovieClip;
 	import flash.events.Event;
 	

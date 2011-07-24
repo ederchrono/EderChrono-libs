@@ -1,6 +1,7 @@
-﻿package commands.greensock {
+﻿package com.ederchrono.commands.greensock
+{
+	import com.ederchrono.commands.Command;
 	import com.greensock.TweenMax;
-	import commands.Command;
 	
 	//this command encapsulates the TweenMax.from() method
 	public class TweenMaxFrom extends Command {

@@ -1,4 +1,5 @@
-﻿package commands {
+﻿package com.ederchrono.commands
+{
 	
 	public class TraceCommand extends Command {
 		

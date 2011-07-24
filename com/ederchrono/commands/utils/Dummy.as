@@ -1,5 +1,6 @@
-﻿package commands.utils {
-	import commands.Command;
+﻿package com.ederchrono.commands.utils
+{
+	import com.ederchrono.commands.Command;
 	
 	//this command simply does nothing and completes itself upon execution
 	public class Dummy extends Command {

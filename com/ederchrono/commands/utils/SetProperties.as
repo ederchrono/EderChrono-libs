@@ -1,5 +1,6 @@
-﻿package commands.utils {
-	import commands.Command;
+﻿package com.ederchrono.commands.utils
+{
+	import com.ederchrono.commands.Command;
 	
 	//this command sets an object's properties in a quick and convenient way
 	public class SetProperties extends Command {

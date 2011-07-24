@@ -1,4 +1,5 @@
-﻿package commands {
+﻿package com.ederchrono.commands
+{
 	import flash.events.Event;
 	
 	public class ParallelCommand extends Command {
